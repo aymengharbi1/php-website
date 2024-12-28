@@ -4,7 +4,7 @@ I put together this project while introducing a friend of mine to PHP. I decided
 
 This project is meant for beginners. I've intentionally kept it minimal while introducing some [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
-## Installation
+## Installationnn
 
 There are only two steps to run this website:
 
